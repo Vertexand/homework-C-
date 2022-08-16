@@ -1,0 +1,15 @@
+D:\Study GB\Hw_1\Task_10-Hw2\bin\Debug\net6.0\Task_10-Hw2.exe
+D:\Study GB\Hw_1\Task_10-Hw2\bin\Debug\net6.0\Task_10-Hw2.deps.json
+D:\Study GB\Hw_1\Task_10-Hw2\bin\Debug\net6.0\Task_10-Hw2.runtimeconfig.json
+D:\Study GB\Hw_1\Task_10-Hw2\bin\Debug\net6.0\Task_10-Hw2.dll
+D:\Study GB\Hw_1\Task_10-Hw2\bin\Debug\net6.0\Task_10-Hw2.pdb
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\Task_10-Hw2.csproj.AssemblyReference.cache
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\Task_10-Hw2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\Task_10-Hw2.AssemblyInfoInputs.cache
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\Task_10-Hw2.AssemblyInfo.cs
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\Task_10-Hw2.csproj.CoreCompileInputs.cache
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\Task_10-Hw2.dll
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\refint\Task_10-Hw2.dll
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\Task_10-Hw2.pdb
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\Task_10-Hw2.genruntimeconfig.cache
+D:\Study GB\Hw_1\Task_10-Hw2\obj\Debug\net6.0\ref\Task_10-Hw2.dll
